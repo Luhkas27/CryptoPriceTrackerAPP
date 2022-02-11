@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CryptoPriceTrackerAPP",
+    "slug": "CryptoPriceTrackerAPP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CryptoPriceTrackerAPP"
+}
